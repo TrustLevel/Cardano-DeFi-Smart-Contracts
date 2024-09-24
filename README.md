@@ -8,11 +8,11 @@ Link to the proposal: https://projectcatalyst.io/funds/12/f12-cardano-open-devel
 
 ## Milestone Reportings
 
-Milestone 1: https://docs.google.com/document/d/1xNq3jymLZaATMJIadrc8Ixy-muyNILGB_9IB020R_FU/edit?usp=sharing
-Milestone 2: :::In progress:::
-Milestone 3: not started
-Milestone 4: not started
-Milestone 5: not started
+- Milestone 1: https://docs.google.com/document/d/1xNq3jymLZaATMJIadrc8Ixy-muyNILGB_9IB020R_FU/edit?usp=sharing
+- Milestone 2: :::In progress:::
+- Milestone 3: not started
+- Milestone 4: not started
+- Milestone 5: not started
 
 ---
 
@@ -75,7 +75,7 @@ Each contract is designed to work independently or in conjunction with the other
 
 ## **Structure of the Repository**
 
-- **/templates**: This directory contains the templates (including logic and definitions) for each smart contracts.
+- **/templates**: This directory contains the templates (including logic and definitions) for each smart contract.
 
 - **/contracts**: This directory will contains the Aiken contract files for each of the six smart contracts.
   - `CollateralManagement.aiken`
@@ -90,7 +90,7 @@ Each contract is designed to work independently or in conjunction with the other
 
 ## Usage
 
-Will be explained, once the repository is finished!
+Will be explained, once the repository will be finished and ready to use.
 
 
 ## Contributing
