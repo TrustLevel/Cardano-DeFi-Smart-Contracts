@@ -1,0 +1,1 @@
+# This directory will contrain the smart contracts ready to use. 
