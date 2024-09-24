@@ -1,5 +1,21 @@
 ### -> This repository is under contrunction! ###
 
+## Acknowledgements
+
+This project will be developed as part of a **Project Catalyst** proposal on the **Cardano blockchain**. We thank the community for their feedback and support in guiding the development of this library.
+
+Link to the proposal: https://projectcatalyst.io/funds/12/f12-cardano-open-developers/open-source-library-for-defi-smart-contracts-in-aiken
+
+## Milestone Reportings
+
+Milestone 1: https://docs.google.com/document/d/1xNq3jymLZaATMJIadrc8Ixy-muyNILGB_9IB020R_FU/edit?usp=sharing
+Milestone 2: :::In progress:::
+Milestone 3: not started
+Milestone 4: not started
+Milestone 5: not started
+
+---
+
 ### Overview
 
 This repository will contain six smart contracts and will cover core DeFi functionalities such as collateral management, token issuance, price oracles, ownership and custody, liquidations, and real-time auditing and reporting.
@@ -59,7 +75,9 @@ Each contract is designed to work independently or in conjunction with the other
 
 ## **Structure of the Repository**
 
-- **/contracts**: This directory contains the Aiken contract files for each of the six smart contracts.
+- **/templates**: This directory contains the templates (including logic and definitions) for each smart contracts.
+
+- **/contracts**: This directory will contains the Aiken contract files for each of the six smart contracts.
   - `CollateralManagement.aiken`
   - `IssuanceRedemption.aiken`
   - `PriceOracle.aiken`
@@ -82,10 +100,5 @@ We welcome contributions from the community! If you’d like to contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with detailed descriptions of your changes.
-
-
-## Acknowledgements
-
-This project will be developed as part of a **Project Catalyst** proposal on the **Cardano blockchain**. We thank the community for their feedback and support in guiding the development of this library.
 
 ---
