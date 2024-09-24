@@ -78,12 +78,6 @@ Each contract is designed to work independently or in conjunction with the other
 - **/templates**: This directory contains the templates (including logic and definitions) for each smart contract.
 
 - **/contracts**: This directory will contains the Aiken contract files for each of the six smart contracts.
-  - `CollateralManagement.aiken`
-  - `IssuanceRedemption.aiken`
-  - `PriceOracle.aiken`
-  - `OwnershipCustody.aiken`
-  - `Liquidation.aiken`
-  - `AuditingReporting.aiken`
 
 
 ---
